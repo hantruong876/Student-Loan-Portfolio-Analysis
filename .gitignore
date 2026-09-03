@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+data/raw/*
+!data/raw/.gitkeep
+>>>>>>> 592061c (Initial commit: Set up portfolio structure)
